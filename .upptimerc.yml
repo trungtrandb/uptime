@@ -10,7 +10,7 @@ sites:
   - name: Shop Page
     url: https://trungtq.io
   - name: API
-    url: https://api.trungtq.io
+    url: https://api.trungtq.io/auth/test
   - name: Argo
     url: https://argo.trungtq.io
 
