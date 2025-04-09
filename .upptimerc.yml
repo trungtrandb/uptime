@@ -5,10 +5,14 @@ repo: uptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: J4f Admin
-    url: https://j4f.io.vn
-  - name: Shop J4f
-    url: https://shop.j4f.io.vn
+  - name: Admin page
+    url: https://admin.trungtq.io
+  - name: Shop Page
+    url: https://trungtq.io
+  - name: API
+    url: https://api.trungtq.io
+  - name: Argo
+    url: https://argo.trungtq.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
