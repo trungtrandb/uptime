@@ -58,19 +58,19 @@
     "url": "https://api.trungtq.io/auth/test",
     "icon": "https://icons.duckduckgo.com/ip3/api.trungtq.io.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1144,
-    "timeDay": 1054,
-    "timeWeek": 1144,
-    "timeMonth": 1144,
-    "timeYear": 1144,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 1272,
+    "timeDay": 1468,
+    "timeWeek": 1272,
+    "timeMonth": 1272,
+    "timeYear": 1272,
     "dailyMinutesDown": {
-      "2025-04-14": 0
+      "2025-04-14": 16
     }
   },
   {
