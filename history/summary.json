@@ -58,18 +58,20 @@
     "url": "https://api.trungtq.io/auth/test",
     "icon": "https://icons.duckduckgo.com/ip3/api.trungtq.io.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1174,
-    "timeDay": 1174,
-    "timeWeek": 1174,
-    "timeMonth": 1174,
-    "timeYear": 1174,
-    "dailyMinutesDown": {}
+    "time": 1144,
+    "timeDay": 1054,
+    "timeWeek": 1144,
+    "timeMonth": 1144,
+    "timeYear": 1144,
+    "dailyMinutesDown": {
+      "2025-04-14": 0
+    }
   },
   {
     "name": "Argo",
