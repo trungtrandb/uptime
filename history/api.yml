@@ -1,7 +1,7 @@
 url: https://api.trungtq.io/auth/test
-status: down
-code: 503
-responseTime: 886
-lastUpdated: 2025-08-29T06:55:12.688Z
+status: up
+code: 200
+responseTime: 1866
+lastUpdated: 2025-08-29T07:20:21.855Z
 startTime: 2025-04-09T10:49:49.724Z
 generator: Upptime <https://github.com/upptime/upptime>
