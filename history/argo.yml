@@ -1,7 +1,7 @@
 url: https://argo.trungtq.io
-status: down
-code: 503
-responseTime: 833
-lastUpdated: 2025-10-18T11:20:02.573Z
+status: up
+code: 200
+responseTime: 921
+lastUpdated: 2025-10-18T11:58:34.639Z
 startTime: 2025-04-09T10:49:53.477Z
 generator: Upptime <https://github.com/upptime/upptime>
