@@ -6,13 +6,15 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: Admin page
-    url: https://admin.trungtq.io
-  - name: Shop Page
-    url: https://trungtq.io
+    url: https://admin.trungtq.site
+  - name: Blog Page
+    url: https://trungtq.site
   - name: API
-    url: https://api.trungtq.io/auth/test
+    url: https://api.trungtq.site/auth/test
   - name: Argo
-    url: https://argo.trungtq.io
+    url: https://argo.trungtq.site
+  - name: Huynhnhumakeup
+    url: https://huynhnhumakeup.art
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
