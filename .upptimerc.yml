@@ -6,7 +6,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: Admin page
-    url: https://admin.trungtq.site
+    url: https://vuexy.trungtq.site
   - name: Blog Page
     url: https://trungtq.site
   - name: API
