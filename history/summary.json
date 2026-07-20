@@ -26,12 +26,12 @@
     "url": "https://vuexy.trungtq.site",
     "icon": "https://icons.duckduckgo.com/ip3/vuexy.trungtq.site.ico",
     "slug": "admin-page",
-    "status": "up",
-    "uptime": "50.84%",
+    "status": "down",
+    "uptime": "50.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "37.25%",
+    "uptimeYear": "37.11%",
     "time": 1487,
     "timeDay": 3662,
     "timeWeek": 3722,
@@ -251,7 +251,7 @@
       "2025-11-09": 1440,
       "2025-11-08": 1043,
       "2026-05-24": 72,
-      "2026-07-20": 189,
+      "2026-07-20": 948,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
@@ -291,29 +291,31 @@
     "url": "https://trungtq.site",
     "icon": "https://icons.duckduckgo.com/ip3/trungtq.site.ico",
     "slug": "blog-page",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 1350,
     "timeDay": 1338,
     "timeWeek": 1336,
     "timeMonth": 1336,
     "timeYear": 1350,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-20": 15
+    }
   },
   {
     "name": "API",
     "url": "https://api.trungtq.site/auth/test",
     "icon": "https://icons.duckduckgo.com/ip3/api.trungtq.site.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "87.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "87.79%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "84.82%",
     "time": 1062,
     "timeDay": 778,
@@ -422,7 +424,8 @@
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
-      "2026-04-04": 937
+      "2026-04-04": 937,
+      "2026-07-20": 10
     }
   },
   {
@@ -430,11 +433,11 @@
     "url": "https://argo.trungtq.site",
     "icon": "https://icons.duckduckgo.com/ip3/argo.trungtq.site.ico",
     "slug": "argo",
-    "status": "up",
-    "uptime": "89.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "89.18%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "86.29%",
     "time": 979,
     "timeDay": 775,
@@ -521,7 +524,8 @@
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
-      "2026-04-04": 937
+      "2026-04-04": 937,
+      "2026-07-20": 5
     }
   },
   {
@@ -529,9 +533,9 @@
     "url": "https://huynhnhumakeup.art",
     "icon": "https://icons.duckduckgo.com/ip3/huynhnhumakeup.art.ico",
     "slug": "huynhnhumakeup",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -540,6 +544,8 @@
     "timeWeek": 1408,
     "timeMonth": 1319,
     "timeYear": 1370,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-20": 0
+    }
   }
 ]
