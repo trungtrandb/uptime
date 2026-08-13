@@ -29,10 +29,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/vuexy.trungtq.site.ico",
     "slug": "admin-page",
     "status": "up",
-    "uptime": "53.09%",
+    "uptime": "53.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "74.38%",
+    "uptimeMonth": "76.53%",
     "uptimeYear": "37.07%",
     "time": 1636,
     "timeDay": 3560,
@@ -313,7 +313,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.trungtq.site.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "88.33%",
+    "uptime": "88.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.29%",
@@ -431,7 +431,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/argo.trungtq.site.ico",
     "slug": "argo",
     "status": "up",
-    "uptime": "89.66%",
+    "uptime": "89.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.31%",
@@ -527,9 +527,9 @@
     "url": "https://huynhnhumakeup.art",
     "icon": "https://icons.duckduckgo.com/ip3/huynhnhumakeup.art.ico",
     "slug": "huynhnhumakeup",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.33%",
     "uptimeYear": "99.76%",
@@ -540,7 +540,8 @@
     "timeYear": 1346,
     "dailyMinutesDown": {
       "2026-07-20": 189,
-      "2026-07-22": 105
+      "2026-07-22": 105,
+      "2026-08-13": 0
     }
   }
 ]
