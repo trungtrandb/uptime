@@ -29,17 +29,17 @@
     "url": "https://vuexy.trungtq.site",
     "icon": "https://icons.duckduckgo.com/ip3/vuexy.trungtq.site.ico",
     "slug": "admin-page",
-    "status": "up",
-    "uptime": "61.11%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "61.12%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "42.22%",
-    "time": 2554,
-    "timeDay": 3361,
-    "timeWeek": 3831,
-    "timeMonth": 2945,
-    "timeYear": 3388,
+    "uptimeYear": "42.28%",
+    "time": 2552,
+    "timeDay": 1845,
+    "timeWeek": 3393,
+    "timeMonth": 2863,
+    "timeYear": 3372,
     "dailyMinutesDown": {
       "2026-05-19": 935,
       "2026-05-18": 1440,
@@ -253,7 +253,8 @@
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 776,
-      "2026-07-22": 124
+      "2026-07-22": 124,
+      "2026-11-22": 1
     }
   },
   {
@@ -261,20 +262,21 @@
     "url": "https://trungtq.site",
     "icon": "https://icons.duckduckgo.com/ip3/trungtq.site.ico",
     "slug": "blog-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1291,
-    "timeDay": 1202,
-    "timeWeek": 1346,
-    "timeMonth": 1244,
-    "timeYear": 1291,
+    "time": 1286,
+    "timeDay": 769,
+    "timeWeek": 1220,
+    "timeMonth": 1216,
+    "timeYear": 1286,
     "dailyMinutesDown": {
       "2026-07-20": 204,
-      "2026-07-22": 119
+      "2026-07-22": 119,
+      "2026-11-22": 1
     }
   },
   {
@@ -282,17 +284,17 @@
     "url": "https://api.trungtq.site/auth/test",
     "icon": "https://icons.duckduckgo.com/ip3/api.trungtq.site.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "90.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "90.28%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "85.14%",
-    "time": 963,
-    "timeDay": 892,
-    "timeWeek": 876,
-    "timeMonth": 838,
-    "timeYear": 972,
+    "time": 984,
+    "timeDay": 6201,
+    "timeWeek": 2205,
+    "timeMonth": 1171,
+    "timeYear": 999,
     "dailyMinutesDown": {
       "2025-11-25": 113,
       "2025-11-24": 23,
@@ -376,7 +378,8 @@
       "2026-07-20": 199,
       "2026-07-22": 114,
       "2026-08-19": 102,
-      "2026-08-18": 339
+      "2026-08-18": 339,
+      "2026-11-22": 1
     }
   },
   {
@@ -384,17 +387,17 @@
     "url": "https://argo.trungtq.site",
     "icon": "https://icons.duckduckgo.com/ip3/argo.trungtq.site.ico",
     "slug": "argo",
-    "status": "up",
+    "status": "down",
     "uptime": "91.43%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.69%",
-    "time": 861,
-    "timeDay": 855,
-    "timeWeek": 1107,
-    "timeMonth": 971,
-    "timeYear": 863,
+    "time": 860,
+    "timeDay": 586,
+    "timeWeek": 1009,
+    "timeMonth": 950,
+    "timeYear": 861,
     "dailyMinutesDown": {
       "2025-11-25": 44,
       "2025-11-24": 22,
@@ -460,7 +463,8 @@
       "2026-04-05": 1440,
       "2026-04-04": 937,
       "2026-07-20": 194,
-      "2026-07-22": 109
+      "2026-07-22": 109,
+      "2026-11-22": 1
     }
   },
   {
@@ -468,22 +472,23 @@
     "url": "https://huynhnhumakeup.art",
     "icon": "https://icons.duckduckgo.com/ip3/huynhnhumakeup.art.ico",
     "slug": "huynhnhumakeup",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
-    "time": 1276,
-    "timeDay": 1108,
-    "timeWeek": 1187,
-    "timeMonth": 1121,
-    "timeYear": 1276,
+    "time": 1271,
+    "timeDay": 718,
+    "timeWeek": 1080,
+    "timeMonth": 1097,
+    "timeYear": 1271,
     "dailyMinutesDown": {
       "2026-07-20": 189,
       "2026-07-22": 105,
       "2026-08-14": 953,
-      "2026-08-13": 378
+      "2026-08-13": 378,
+      "2026-11-22": 0
     }
   }
 ]
